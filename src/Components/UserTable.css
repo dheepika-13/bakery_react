@@ -1,0 +1,22 @@
+.user{
+    color: white;
+    margin-left: 80px;
+}
+
+table{
+    background-color: #3a0202;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    
+}
+th, td 
+{
+    padding-left: 30px;
+    color: white;
+    padding-bottom: 30px;
+}

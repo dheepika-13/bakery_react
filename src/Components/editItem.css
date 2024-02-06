@@ -1,0 +1,62 @@
+.App {
+	text-align: center;
+	background-color: rgb(96, 93, 93);
+}
+
+.deee input {
+	font-size: large;
+	padding: 5px;
+	margin: 2px;
+	margin-left:50px;
+	width: 10;
+	inline-size: 30%;
+	align-items: center;
+	display: grid;
+	flex: auto;
+	background-color: #3b4148;
+	
+}
+
+.btn {
+	color: white;
+	background-color: rgb(52, 3, 3);
+	border-radius: 5px;
+	font-size: larger;
+	display: block;
+	padding: 5px;
+	margin-left: 150px;
+	width: 200px;
+}
+
+.messages {
+	display: flex;
+	justify-content: left;
+}
+
+.error {
+	display: block;
+	background-color: red;
+	color: white;
+	width: fit-content;
+	height: 50px;
+	padding: 5px;
+}
+
+.success {
+	display: block;
+	background-color: lightblue;
+	color: black;
+	width: fit-content;
+	height: 50px;
+	padding: 5px;
+}
+.item
+{
+	color: aliceblue;
+	padding-left: 180px;
+	padding-top: 30px;
+}
+.inputt{
+	margin-left: 5cm;
+}
+
